@@ -9,3 +9,4 @@
 
 ## 安裝套件
 tkinter
+pillow
